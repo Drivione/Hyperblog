@@ -3,5 +3,9 @@ Esta es la historia de David Palacios
 David Palacios tiene 33 años y nació en Venezuela,
 viviendo en todo el mundo
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra.
 
+=======
+Mañana hablaremos de su vida laboral.
+>>>>>>> cabecera
